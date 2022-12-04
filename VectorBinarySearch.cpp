@@ -246,7 +246,6 @@ int binarySearchForInt(vector<int> passedVector)
 			startingIndex = middleIndex + 1;
 		}
 	}
-
 	if (position == -1)
 	{
 		cout << searchInt << " was not found in the vector."
