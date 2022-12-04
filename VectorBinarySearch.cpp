@@ -10,7 +10,7 @@
 using namespace std;
 
 // Global Constant Initialization
-const string TITLE = "Vector Data Program";
+const string TITLE = "Vector Binary Search Program";
 const string AUTHOR_LINE = "By Forrest Moulin";
 const int VECTOR_SIZE = 5000;
 
@@ -290,7 +290,7 @@ void swapValues(int& a, int& b)
 }
 /*
 * CONSOLE OUTPUT # 1 - INT NOT FOUND
-* Vector Data Program
+* Vector Binary Search Program
 * By Forrest Moulin
 * 
 * Sorted Vector:
@@ -312,7 +312,7 @@ void swapValues(int& a, int& b)
 * 2 was not found in the vector.
 * 
 * CONSOLE OUTPUT # 2 - INT FOUND
-* Vector Data Program
+* Vector Binary Search Program
 * By Forrest Moulin
 * 
 * Sorted Vector:
